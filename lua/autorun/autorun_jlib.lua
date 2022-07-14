@@ -20,7 +20,7 @@
 ]]--
 
 jLib = {}
-jLib._VERSION = 1
+jLib._VERSION = 1.1
 
 local col_Prefix, col_Text = Color(255, 208, 106), Color(255, 255, 255)
 function jLib.Print(a_msg)
